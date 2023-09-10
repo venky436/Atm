@@ -1,0 +1,13 @@
+.bank{
+    font-size: 24px;
+    color: darkblue;
+    font-weight: 700;
+    font-family: 'Poppins';
+}
+.btn{
+    font-size: 18px;
+    color: darkblue;
+    font-weight: 600;
+    font-family: 'Poppins';
+    cursor: pointer;
+}

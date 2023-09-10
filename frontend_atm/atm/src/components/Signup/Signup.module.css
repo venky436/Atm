@@ -1,0 +1,12 @@
+
+.form_row{
+    display: flex;
+    height: auto;
+    background-color: rgba(0,0,0,0.1);
+    align-items: flex-start;
+    justify-content: center;
+    padding: 40px 30px;
+    border-radius: 20px;
+    /* margin: 0 auto; */
+    max-width: 600px;
+}
